@@ -1,7 +1,3 @@
----
-title: Sudoku Idle - Privacy Policy
----
-
 # Privacy Policy
 
 **Last updated:** October 30, 2026
